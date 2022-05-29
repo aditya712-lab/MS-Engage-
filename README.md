@@ -28,10 +28,10 @@
 
 # Objective
 
-- The ultimate goal of this project is to develop an application that the Automotive Industry could use to harness data to make informed decisions. 
-- It helps to find out which is the most popular car **on the basis** of its engine type, fuel type, mileage, model, etc. 
-- It will help them to figure out the trending designs of cars and can use those reports to accordingly **manipulate the design of the cars**,by making them more      **optimized, customer-centric, and innovative**. 
-- It also allows them to **find out the relation between** different parameters like how exactly the prices vary with the independent variables. With the help of **customer segmentation**, they can find which group of people prefers which features.
+- The ultimate goal of this project is to develop an application that has the ability to recommend movies to user Accurately. 
+- It helps to Recommend movies on the basis of **Content Based Filtering**. 
+- It will help them to Choose Movies which are very similary to what they viewed previously. 
+- It also allows them to Filter Movies on the Basis of Multiple Genres which Enhances the user Experience.
 
 
 
