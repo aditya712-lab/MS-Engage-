@@ -32,24 +32,19 @@
 - It helps to Recommend movies on the basis of **Content Based Filtering**. 
 - It will help them to Choose Movies which are very similary to what they viewed previously. 
 - It also allows them to Filter Movies on the Basis of Multiple Genres which Enhances the user Experience.
-
+- User also Can Seeach for the movie by Searching the name of the movie.
 
 
 # General Information about the Project
 
-This project uses the concept of Data Analysis to demonstrate how the Automotive Industry could harness data to make informed decisions.
+This project uses the concept of Content Based Filtering,Searching Subsequence Algorithms Optimally.
 
-I have used this Dataset-
+Dataset Used-
 
-- Since the given dataset had missing values, I deleted the columns having more than 60% missing values.
+- The Dataset  contains two .CSV files which contains  ,Movie Details and Movie Credits.
+- Since there were many missing details in the CSV file, so the Dataset has to be Refined.
+- The Data manipulations and Required Function are implemented in Python/Flask in the Backend.
 
-- Followed by filling the missing values with the mode of the column.
-
-- Then, **I used plots such as** : bar plots, box plots, and scatter plots to display the relationship between different attributes(features of the cars).
-
-- Followed by using an Elbow plot to find the optimal value of K to apply **K-Means Clustering** ,so as  to group the people on the basis of the Displacement and the Ex-Showroom Price
-
-- Prior to using K-means Clustering, I scaled the values of Displacement and Ex-showroom Price, for making data points generalized so that the distance between them will be lower.
  
 
 
