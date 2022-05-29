@@ -10,17 +10,18 @@
 
 >Users can Search the movie by name and also can Filter the movies on the basis of Genres.
 
-> Live demo [here](https://youtu.be/0lu2atR5Qcg)
+> Live demo [here]()
 
 ## Table of Contents
 * [Objective](#objective)
 
 * [General Information about the Project](#general-information-about-the-project)
 
-* [Technologies Used](https://github.com/Shweta2024/cars-engage-2022/blob/main/requirements.txt)
+* [Features](#features)
 
-* [Installing/Contributing Guidelines](https://github.com/Shweta2024/cars-engage-2022/blob/main/Contributing.md)
+
 * [Contact](#contact)
+
 
 
 
@@ -38,7 +39,7 @@
 
 This project uses the concept of Data Analysis to demonstrate how the Automotive Industry could harness data to make informed decisions.
 
-I have used this Dataset->[cars](https://github.com/Shweta2024/cars-engage-2022/blob/main/cars.csv)
+I have used this Dataset-
 
 - Since the given dataset had missing values, I deleted the columns having more than 60% missing values.
 
@@ -65,12 +66,19 @@ Below are the informations that can be found from my application :-
 
 
 
+## Similarity Score 
 
-## Room for Improvement
+   How does it decide which item is most similar to the item user likes? Here come the similarity scores.
+   
+   It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+   
+## How Cosine Similarity works?
+  Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
+  
+  ![image](https://user-images.githubusercontent.com/36665975/70401457-a7530680-1a55-11ea-9158-97d4e8515ca4.png)
 
-- Since the aim of the project was to use data analysis,I have not used any algorithm to predict the price of a car.Although, algorithms like **Linear Regression** and  **Random Forest Algorithm** can be used for predicting the price of the car. 
-
-
+  
+More about Cosine Similarity : [Understanding the Math behind Cosine Similarity](https://www.machinelearningplus.com/nlp/cosine-similarity/)
 
 ## Contact
 
