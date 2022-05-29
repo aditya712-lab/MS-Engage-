@@ -4,7 +4,11 @@
 
 # Movie Recommendation System
 
->Developed an application to demonstrate how the Automotive Industry could harness data to take informed decisions.
+>Developed an application to demonstrate how users and choose movies of his/her choice and get to know the basic details of the movie selected, such as Genres,Top Casts,Budget etc.
+
+>Also Recommendations are given on the basic of current movie selected and users are allowed to set Count of Number of Recommendations
+
+>Users can Search the movie by name and also can Filter the movies on the basis of Genres.
 
 > Live demo [here](https://youtu.be/0lu2atR5Qcg)
 
