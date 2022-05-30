@@ -12,6 +12,8 @@
 
 > Live demo [here](https://www.youtube.com/watch?v=0no3xiRB8uU&ab_channel=AdityaChauhan)
 
+> Currently deployed at [https://delightful-tiramisu-1e7342.netlify.app/](https://delightful-tiramisu-1e7342.netlify.app/).
+
 ## Table of Contents
 * [Objective](#objective)
 
