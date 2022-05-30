@@ -14,6 +14,12 @@
 
 > Currently deployed at [https://delightful-tiramisu-1e7342.netlify.app/](https://delightful-tiramisu-1e7342.netlify.app/).
 
+### Prerequisites: 
+* [Python3 and above](https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-in&gl=IN)
+* [NodeJs18 and above](https://nodejs.org/en/download/)
+* [Git](https://git-scm.com/download/win)
+* Windows 10 and above.
+
 ## Table of Contents
 * [Objective](#objective)
 
