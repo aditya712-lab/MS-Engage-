@@ -54,9 +54,10 @@ Dataset Used-
 
 Below are the informations that can be found from my application :- 
 
-- The most popular Car as per their Make , Model,Fuel Type ,Body Type, etc.
-- How exactly the prices vary with the independent variables.
-- Customer segments.
+- Recommending movies accurately.
+- Good User Experience for which React has been used to Get Instant results with every Change.
+- Multiple Filter on  the basis of Genres  takes user experience One step ahead.
+- Searching Movies by Name and Giving five Suggestions for the typed letters,which eventually takes user to Details and Recommendation Page.
 
 
 
