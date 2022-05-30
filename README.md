@@ -1,8 +1,8 @@
-# MS-Engage/Recommendations
+# MS-Engage/Algorithms
 
 
 
-# Movie Recommendation System
+# Movies Recommendation System
 
 >Developed an application to demonstrate how users and choose movies of his/her choice and get to know the basic details of the movie selected, such as Genres,Top Casts,Budget etc.
 
