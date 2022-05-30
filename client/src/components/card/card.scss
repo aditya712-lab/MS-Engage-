@@ -1,0 +1,41 @@
+.overview {
+  color: black;
+}
+.media {
+  width: 100%;
+  height: 15vw;
+}
+.poster {
+  max-width: 100%;
+}
+
+.absolute-cont {
+  position: absolute;
+  max-width: 180px;
+}
+.card-cont {
+  transition: 0.5s;
+
+  display: inline-block;
+  margin-left: 30px;
+}
+.card-cont:hover {
+  transform: scale(1.3);
+}
+
+.fav {
+  text-align: center;
+  background-color: #e2e7e9;
+  border-radius: 7px;
+  color: black;
+  font-weight: bold;
+
+  padding: 10px;
+}
+span {
+  margin-bottom: 25px;
+}
+.play {
+  display: inline;
+  float: right;
+}

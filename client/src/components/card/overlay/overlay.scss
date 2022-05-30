@@ -1,0 +1,143 @@
+.whole {
+  color: white;
+  display: flex;
+  flex-direction: row;
+
+  text-align: left;
+
+  background-color: #19272e;
+
+  .banner {
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    width: 30%;
+
+    width: fit-content;
+    .watch {
+      background-color: #e9d66b;
+      width: 300px;
+      text-align: center;
+      border-bottom-right-radius: 10px;
+      .watchbtn {
+        border-radius: 25px;
+        background-color: bisque;
+        color: black;
+        font-weight: bold;
+      }
+    }
+    .btn {
+      background-color: aliceblue;
+    }
+  }
+}
+
+.text {
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 50px;
+  .head {
+    color: white;
+    font-size: 50px;
+
+    background-color: #19272e;
+    text-align: center;
+  }
+  .otherdet {
+    color: red;
+    margin-top: 35px;
+  }
+}
+.hbelow {
+  margin-bottom: 25px;
+}
+
+.cast {
+  margin-top: 50px;
+
+  background-color: #19272e;
+}
+
+.overview {
+  max-height: 150px;
+  overflow-y: auto;
+  margin-top: 5px;
+  color: white;
+
+  .overhead {
+    width: fit-content;
+
+    color: black;
+    background-color: aqua;
+
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+}
+
+.durh,
+.genh,
+.relh,
+.rath,
+.grossh,
+.bugh {
+  display: inline-block;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.durcont,
+.ratcont,
+.grosscont,
+.bughcont {
+  display: inline-block;
+}
+.budget,
+.reldate,
+.runtime,
+.threegenres,
+.rating,
+.budget,
+.gross {
+  margin-bottom: 15px;
+  width: fit-content;
+
+  padding: 6px;
+  border-radius: 7px;
+}
+
+.gencont {
+  display: inline-block;
+}
+
+.countnum {
+  margin-top: 30px;
+
+  background-color: #19272e;
+  .rec {
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+    margin-left: 40px;
+  }
+  .count {
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    border: #af002a 15px solid;
+    border-radius: 10px;
+  }
+  .setcnt {
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+}
