@@ -20,6 +20,13 @@
 * [Git](https://git-scm.com/download/win)
 * Windows 10 and above.
 
+### Steps to run the Servers:
+#### Step 1:
+Open ```backend.bat``` file.
+#### Step 2:
+Open ```frontend.bat``` file.
+##  Thats it! You are Done
+   
 ## Table of Contents
 * [Objective](#objective)
 
