@@ -1,0 +1,173 @@
+.whole {
+  // border: solid 5px rgb(0, 0, 0);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  //   background-repeat: no-repeat;
+  // text-align:center;
+  text-align: left;
+  // padding-left: 5px;
+  background-color: #19272e;
+  // text-shadow: 50px;
+  // opacity: 0.5;
+  // background-size: cover;
+  .banner {
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    width: 30%;
+    // border: 5px solid red;
+    width: fit-content;
+    .watch {
+      background-color: #e9d66b;
+      width: 300px;
+      text-align: center;
+      border-bottom-right-radius: 10px;
+      .watchbtn {
+        border-radius: 25px;
+        background-color: bisque;
+        color: black;
+        font-weight: bold;
+      }
+    }
+    .btn {
+      // position: fixed;
+
+      background-color: aliceblue;
+    }
+  }
+}
+
+.text {
+  // border: solid rgb(78, 247, 6) 5px;
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 50px;
+  .head {
+    // border: 4px solid red;
+    color: white;
+    font-size: 50px;
+    // margin-top: 10px;
+    background-color: #19272e;
+    text-align: center;
+  }
+  .otherdet {
+    color: red;
+    margin-top: 35px;
+  }
+}
+.hbelow {
+  //  font-size: large;
+  //  color: red;
+  margin-bottom: 25px;
+}
+
+.cards {
+  //  margin-top: 100000px;
+  // border: rgb(78, 247, 6) solid 5px;
+  // background-color: ;
+}
+
+.cast {
+  margin-top: 50px;
+  // border: 5px blue solid;
+  background-color: #19272e;
+}
+
+.overview {
+  max-height: 150px;
+  overflow-y: auto;
+  margin-top: 5px;
+  color: white;
+  // border: 4px solid red;
+
+  .overhead {
+    width: fit-content;
+    // position:fixed;
+    color: black;
+    background-color: aqua;
+    // text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    // color: red;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+}
+// .relh{
+//   display: inline-block;
+//   font-weight: bold;
+//   margin-right: 10px;
+// }
+.durh,
+.genh,
+.relh,
+.rath,
+.grossh,
+.bugh {
+  display: inline-block;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.durcont,
+.ratcont,
+.grosscont,
+.bughcont {
+  display: inline-block;
+}
+.budget,
+.reldate,
+.runtime,
+.threegenres,
+.rating,
+.budget,
+.gross {
+  margin-bottom: 15px;
+  width: fit-content;
+  // background-color: aqua;
+  padding: 6px;
+  border-radius: 7px;
+}
+
+// .genh{
+//   display: inline-block;
+//   margin-right: 10px;
+//   font-weight: bold;
+// }
+.gencont {
+  display: inline-block;
+}
+
+.countnum {
+  // border: 5px red solid;
+  margin-top: 30px;
+  // display: flex;
+  // width: fit-content;
+  background-color: #19272e;
+  .rec {
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+    margin-left: 40px;
+  }
+  .count {
+    // float: right;
+
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    border: 	#AF002A 15px solid;
+    border-radius: 10px;
+  }
+  .setcnt{
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+}

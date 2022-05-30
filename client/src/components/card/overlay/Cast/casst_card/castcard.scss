@@ -1,0 +1,25 @@
+.card {
+  border: 15px solid 	#F4C2C2;
+  margin-right: 15px;
+  margin-left: 75px;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+   z-index: 1;
+   margin-bottom: 15px;
+   cursor: pointer;
+   transition: 0.5s;
+  //  padding: 15px;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.naam{
+    background-color: 	black;
+    color: white;
+    border-radius: 25px;
+    font-weight: bold;
+}

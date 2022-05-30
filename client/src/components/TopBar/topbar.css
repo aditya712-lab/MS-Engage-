@@ -1,0 +1,55 @@
+.theme-selector{
+    margin: 15px !important;
+}
+
+.highlighted{
+    color: #be03fc !important;
+    border-color: #be03fc !important;
+    border-width: 2px !important;
+}
+
+.highlighted:hover{
+    color: white !important;
+    background-color: #be03fc !important;
+}
+.search{
+   
+    width: 20%;
+    margin-left: 25%;
+}
+
+.searchres{
+    position: absolute;
+    z-index: 100000000000000000;
+    margin-left: 24px;
+    width: 395px;
+    background-color: 				#F5F5DC;
+}
+
+.list{
+    background-color: #19272e;
+    padding: 10px;
+    margin-top: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+     cursor: pointer;
+    /* border: yellow 2px solid; */
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.genre-item:hover{
+    background-color:#19272e !important;
+    color: white;
+    font-weight:bold !important;
+}
+
+.selected{
+    background-color: rgb(11, 206, 53) !important;
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 25px !important;
+}
